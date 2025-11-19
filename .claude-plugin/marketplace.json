@@ -13,10 +13,7 @@
       "name": "deckset-presentation-expert",
       "description": "Expert assistant for creating Deckset presentations with markdown. Includes 29 documentation files, 3 example presentations, and auto-scraper.",
       "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/deckset-presentation-expert"
-      ]
+      "strict": true
     }
   ]
 }
