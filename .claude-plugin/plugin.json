@@ -1,15 +1,14 @@
 {
-  "id": "deckset-presentation-expert",
-  "name": "Deckset Presentation Expert",
+  "name": "deckset-presentation-expert",
   "version": "1.0.0",
-  "description": "Expert assistant for creating Deckset presentations with markdown. Helps with formatting, slide layouts, media integration, presenter notes, themes, and animations.",
-  "author": "Alexis Lutun",
+  "description": "Expert assistant for creating Deckset presentations with markdown. Includes comprehensive documentation, syntax reference, and ready-to-use examples.",
+  "author": {
+    "name": "Alexis Lutun",
+    "email": ""
+  },
   "license": "MIT",
-  "repository": "https://github.com/alexislutun/deckset-claude-skill",
+  "repository": "https://github.com/doudou1337/deckset-claude-skill",
   "skills": [
-    {
-      "name": "deckset-presentation-expert",
-      "path": "skills/deckset-presentation-expert"
-    }
+    "./skills/deckset-presentation-expert"
   ]
 }
