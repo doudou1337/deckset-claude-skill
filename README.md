@@ -4,6 +4,8 @@ Claude Code skill for creating Deckset presentations with markdown. Includes 29 
 
 ## Installation
 
+### Claude Code
+
 **Quick install:**
 ```bash
 /plugin marketplace add doudou1337/deckset-claude-skill
@@ -17,6 +19,14 @@ cd deckset-claude-skill
 /plugin marketplace add .
 /plugin install deckset-presentation-expert
 ```
+
+### Claude Desktop
+
+1. Download the latest `deckset-presentation-expert.zip` from [Releases](https://github.com/doudou1337/deckset-claude-skill/releases)
+2. Open Claude Desktop
+3. Go to Settings → Skills
+4. Click "Install from file" or drag & drop the zip file
+5. Restart Claude Desktop
 
 ## Usage
 
