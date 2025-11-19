@@ -1,0 +1,13 @@
+{
+  "name": "deckset-presentation-expert",
+  "displayName": "Deckset Presentation Expert",
+  "description": "Skill for creating Deckset presentations with markdown.",
+  "plugins": [{
+    "id": "deckset-presentation-expert",
+    "name": "Deckset Presentation Expert",
+    "description": "Expert assistant for creating Deckset presentations with markdown. Includes comprehensive documentation, syntax reference, and ready-to-use examples.",
+    "author": "Alexis Lutun",
+    "version": "1.0.0",
+    "path": "."
+  }]
+}
