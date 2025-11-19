@@ -6,18 +6,13 @@ Claude Code skill for creating Deckset presentations with markdown. Includes 29 
 
 **Quick install:**
 ```bash
-/plugin marketplace add alexislutun/deckset-claude-skill
+/plugin marketplace add doudou1337/deckset-claude-skill
 /plugin install deckset-presentation-expert
-```
-
-**Or direct:**
-```bash
-/plugin install deckset-presentation-expert@deckset-claude-skill
 ```
 
 **Or local:**
 ```bash
-git clone https://github.com/alexislutun/deckset-claude-skill.git
+git clone https://github.com/doudou1337/deckset-claude-skill.git
 cd deckset-claude-skill
 /plugin marketplace add .
 /plugin install deckset-presentation-expert
@@ -95,7 +90,7 @@ python scripts/scrape-deckset-docs.py
 
 - Deckset: https://www.decksetapp.com
 - Docs: https://docs.deckset.com/English.lproj/
-- Issues: https://github.com/alexislutun/deckset-claude-skill/issues
+- Issues: https://github.com/doudou1337/deckset-claude-skill/issues
 
 ## License
 
